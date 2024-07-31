@@ -1,0 +1,27 @@
+#logo{
+    height: 70px;
+    width: 70px;
+}
+.cartao{
+    display: flex;
+    justify-content: space-around;
+}
+
+.titulo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.foto{
+    height: 287px;
+    width: 287px;
+}
+.cart-texto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
